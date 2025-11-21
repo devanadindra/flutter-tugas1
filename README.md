@@ -1,4 +1,4 @@
 # tugas1
 
-A new Flutter project.
+Flutter Pagination and Widget
 # flutter-tugas1
