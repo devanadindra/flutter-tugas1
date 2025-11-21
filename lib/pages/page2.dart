@@ -33,7 +33,7 @@ class _IncrementPageState extends State<IncrementPage> {
           children: [
             Text(
               "Nilai: $counter",
-              style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold, color: textColor),
             ),
             SizedBox(height: 20),
             ElevatedButton(
